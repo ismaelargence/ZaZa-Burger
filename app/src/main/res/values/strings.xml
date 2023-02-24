@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">burgir</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Basket</string>
+    <string name="title_notifications">Account</string>
 </resources>
