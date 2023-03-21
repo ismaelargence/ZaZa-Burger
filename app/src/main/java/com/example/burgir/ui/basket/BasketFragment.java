@@ -15,7 +15,7 @@ public class BasketFragment extends Fragment {
 private FragmentDashboardBinding binding;
 
     public View onCreateView(@NonNull LayoutInflater inflater,
-            ViewGroup container, Bundle savedInstanceState) {
+                             ViewGroup container, Bundle savedInstanceState) {
         BasketViewModel dashboardViewModel =
                 new ViewModelProvider(this).get(BasketViewModel.class);
 
